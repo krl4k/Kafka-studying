@@ -1,27 +1,9 @@
-# kafka
-Apache Kafka is a distributed streaming platform.
-Основные компоненты:
-* Producer
-* Consumer
-* Broker
-* Topic
-* Partition
-* Offset
-* Consumer Group
-* Consumer Offset
-* Zookeeper
-* Schema Registry
-* Connect
-* Stream
-* Connector
+# Description
 
+This project created for learning purposes.
+All code examples written on Golang.
 
-Отказоустойчивая:
-* Replication Factor
-* ISR
-
-
-
-
-# kafka schema registry
-это сервис, который хранит схемы данных, которые используются в kafka.
+# Requirements
+* Golang
+* Docker
+* Minikube
